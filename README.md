@@ -1,277 +1,377 @@
-# Computer Science Club Constitution
+The University of Adelaide 
 
-----
+Computer Science Club Constitution
 
-## 1. Principles and Objectives of the Club
-* 1.1. The primary objective of the club is to provide collaboration, networking and social opportunities, along with intellectual stimulation, for CS students and other interested people
+[[TOC]]
 
-## 2. Name
-* 2.1. The name of the club shall be Computer Science Club.
-* 2.2. For the purposes of publicity, publication, or other purposes as approved by the President or his delegate, the name of the Club may be written as a syntactically valid source code statement or equivalent for any self-hosting computer programming language which calls a zero-parameter callable unit named "club" contained or referenced within a first-class object named "cs", discarding any returned value. These names need not be capitalised as described.
+# 1. Principles and Objectives of the Club
 
-## 3. Definitions
-* 3.1. Unless a contrary intention is evident, the following definitions apply to this Constitution and all other Club Documents.
-	* 3.1.1. "Club" shall mean Computer Science Club
-	* 3.1.2. "CA" shall mean the Adelaide University Clubs Association Incorporated;
-	* 3.1.3. "Union" shall mean the Adelaide University Union Incorporated;
-	* 3.1.4. "Constitution" shall mean the Constitution of the Club;
-	* 3.1.5. "University" shall mean the University of Adelaide;
-	* 3.1.6. "Committee" shall mean the Committee of the Club;
-	* 3.1.7. "Executive" shall mean the Executive Committee of the Club;
-	* 3.1.8. "GM" shall mean a General Meeting or any properly convened meeting of the Club;
-	* 3.1.9. "AGM" shall mean the Annual General Meeting of the Club;
-	* 3.1.10. "IGM" shall mean the Inaugural General Meeting of the Club;
-	* 3.1.11. "SGM" shall mean Special General Meeting of the Club;
-	* 3.1.12. "Academic Day" shall mean a day defined by the University of Adelaide to be within semester, excluding public holidays and weekends.
-	* 3.1.13. "CA Student Membership" shall mean a CA Student Member as defined by the CA Constitution, or if such a provision does not exist in the CA Constitution, a student of the University who is a member of the Union;
-	* 3.1.14. "CA Membership" shall mean CA Membership for an individual as defined by the CA Constitution, or if such a provision does not exist in the CA Constitution, an individual who may join a CA affiliated club;
-	* 3.1.15. "Office" shall mean an elected position in the Club provided for in Section 8.1 of the Constitution;
-	* 3.1.16. "Officer" shall mean a member who has been elected to an "office";
-	* 3.1.17. "President" shall mean the President of the Club;
-	* 3.1.18. "Secretary" shall mean the Secretary of the Club;
-	* 3.1.19. "Treasurer" shall mean the Treasurer of the Club;
-	* 3.1.20. "Vice-President" shall mean the Vice-President of the Club;
+1.  The **primary objective** of the club is to provide collaboration, networking, intellectual stimulation and social opportunities, as well as any other pursuit reasonably suited for students studying computer science at the University of Adelaide and other interested people. 
 
-## 4. Affiliation
-* 4.1. The Club shall be affiliated with:
-	* 4.1.1. The CA
+# 2. Name
 
-## 5. Membership
-* 5.1. A person is only a member of the Club if they have complied with the terms of membership set by the Club at any AGM or SGM.
-* 5.2 Membership in the Club is open to any undergraduate or postgraduate student at the University of Adelaide who:
-	* a. Pays the membership fee as determined under Section 6
-	* b. Completes an Application for Membership and returns it to the Secretary.
-		* i. The Application for Membership form shall be designed by the Secretary and must collect at least the following information:
-			1. Name
-			2. Student Number
-			3. Preferred Email Address
-* 5.3 Associate Membership in the Club is open to any person, not being an undergraduate or postgraduate student at the University of Adelaide, who:
-	* a. Pays the membership fee as determined under Section 6
-	* b. Pays the CA Associate membership fee as set by the CA
-		* i. The Club, acting upon a resolution of a General Meeting of the Club or a resolution of the General Committee, may choose to pay the CA Associate membership fee to the CA. Such payment may not exceed the membership fee paid to the Club without a resolution of a General Meeting of the Club allowing such a payment. The General Committee may not delegate this power.
-	* c. Completes an Application for Membership and returns it to the Secretary.
-* 5.3 Honorary Membership in the club is open to any person, upon whom the Club has conferred it.
-	* a. Honorary Membership shall be in appreciation of services rendered to the Club
-	* b. Such membership can only be conferred by any GM.
-* 5.4 The General Committee shall have the right to direct the Secretary to refuse membership to any applicant without giving reason.
+1. The legal and formal name of the club is the "**_Computer Science Club_**".
 
-## 6. Membership Fee
-* 6.1 The Club’s membership fee shall be determined by the IGM and each subsequent AGM for each membership category, except as set out in clause 6.3;
-* 6.2 The membership fee shall provide membership until the AGM of the subsequent academic year; and
-* 6.3 Honorary members of the Club are exempt from membership fees.
+2. For the purposes of publicity, publication, or other purposes as approved by the President, the name of the club may be written as "**_CS Club_**".
 
-## 7. Termination of Membership of the Club
-Membership is terminated as follows:
-* 7.1 Ordinary and Honorary Members
-	* 7.1.1 An Ordinary member of the club or an Honorary member of the club, upon a resolution of the Executive may be suspended from the Club until a General Committee Meeting is held to review the decision. The suspended member must be notified within forty-eight hours in writing of the decision. Such a Meeting must be called within 3 weeks of the suspension. At the meeting, the suspension must gain the support of at least a quorum of the committee, as defined in section 10.3. A Member may then be expelled from the Club and have their membership terminated forthwith if such a motion receives the support of two-thirds of the members present. Reason for the suspension or expulsion does not have to be given to the member.
-	* 7.1.2 A member of the club shall terminate their membership of the club upon:
-		* i. The Executive accepting a letter of resignation from that member; or
-		* ii. The passing of a resolution pursuant to clause 7.1.1 of the Constitution.
-* 7.2 Associate Members
-	* 7.2.1 An Associate Member of the club may terminate or have terminated membership as under clause 7.1.2; or
-	* 7.2.2 Upon ceasing to be a member under the membership conditions of clause 5.3
+# 3. Dictionary
 
-## 8. The Committee
-* 8.1. The Committee shall act on behalf of the Club between GMs of the Club providing such actions are not contrary to this Constitution or a resolution of a GM.
-* 8.2. The Committee shall have the power to direct the Executive. These directions shall be binding unless altered or reversed by a GM of the Club.
-* 8.3. The Committee shall have the power to fill any casual vacancies created during its term of office, following the AGM, subject to confirmation at a GM of the Club. Such a GM must be held within three weeks of the vacancy being filled unless the AGM is to be held within six weeks of the vacancy being filled.
-* 8.5. The Committee shall hold an AGM during term four of the academic year.
-* 8.6. The Committee shall provide to the CA by the thirty-first of March each year a:
-	* 8.6.1. Completed CA Contact List;
-	* 8.6.2. List of officers of the Club which shall include the name, home address, telephone number and email of each officer; and
-	* 8.6.3. List of members of the club including their name and student number (where applicable).
+Unless a contrary intention is evident, the following definitions apply to this Constitution and all other club documents:
 
-## 9. Composition of the Committee
-* 9.1. There will be a Committee of the Club consisting of the members set out in clause 5.2 which shall consist of in order of precedence:
-	* 9.1.1. The President;
-	* 9.1.2. The Vice-President;
-	* 9.1.3. The Secretary;
-	* 9.1.4. The Treasurer;
-	* 9.1.5. The CA Delegate
-	* 9.1.6. Up to four other fee-paying members of the Club.
-* 9.2. The Committee shall also have as ex-officio, non-voting members:
-	* 9.2.1. The immediate past President;
-	* 9.2.2. The members of the CA Executive who are members of the Club; and
-	* 9.2.3. The CA President.
+1.  **"Club"** means Computer Science Club;
 
-## 10. Conduct of Committee Meetings
-* 10.1. The President has a deliberative vote and in the case of an equality of votes, may exercise a casting vote.
-* 10.2. No Committee Member may delegate his/ her voting right in absentia.
-* 10.3. The quorum of a Committee meeting shall be five distinct voting members of the Committee.
-	* 10.3.1. If quorum is not reached at a meeting, the functions and powers of the committee are automatically delegated, unless otherwise prevented, to the executive until such time as a quorate meeting can be held.
-* 10.4. The President, or in their absence the Vice-President, shall call meetings of the Committee.
-* 10.5. Minutes of all meetings shall be kept, including:
-	* 10.5.1. The minutes of the Committee meeting shall include the names of the persons that attended that meeting.
-	* 10.5.2. Decisions of the Committee shall be by substantive motion and shall be minuted.
-* 10.6. The President, or in their absence the Vice-President, may convene a special meeting of the committee for the consideration and discussion of business that is of relevant importance to the committee.
-* 10.7. Without limiting the scope of clause 10.6, upon receiving a written petition of three voting Committee members, the President, or in their absence the Vice-President, shall call a meeting of the Committee within fourteen days.
-* 10.8. The term of the committee is deemed to be from the time the committee commences office as in 20.5. to the time the subsequent committee takes office after the next AGM.
-* 10.9. The President shall, where possible, chair all Committee and General Meetings of the Club, or in their absence, chair of the meeting will follow in the order of precedence set out in clause 9.1.
+2.  **"Union"** means Adelaide University Union Incorporated;
 
-## 11. Termination of Membership of the Committee and Vacancies on the Committee
-* 11.1 A member of the Committee shall cease to be a member of the Committee if:
-	* 11.1.1 The President or Vice-President receives a letter of resignation from that member;
-	* 11.1.2 The member is absent, without leave of absence being granted by resolution of the Committee, for three consecutive meetings of the committee of which the member was notified;
-	* 11.1.3 Upon termination of membership of the Club; or
-	* 11.1.4 A resolution of a SGM called for the purpose, is supported by a two-thirds majority of Club members present, and expresses No-Confidence in that Committee member.
-* 11.2 Where an Office or seat on the General Committee becomes vacant a General Meeting shall be called to fill the position:
-	* a. This General Meeting must be held within six weeks of the position becoming vacant, except where
-		* i. The AGM is to be held within eight weeks of the position becoming vacant; or
-		* ii. There is no academic day within the next six weeks. In this instance the General Meeting shall be held within two weeks of the next academic day.
-	* b. The President may appoint any member to fill the Office or the General Committee seat in the interim. Should a General Committee Meeting occur in this interim, the General Committee may review and revise the President’s appointment at their discretion, in this matter the appointed member shall not have a vote. The General Committee may not delegate this power of review to a Committee of the Club.
+3.  **"University"** means the University of Adelaide;
 
-## 12. The Executive
-* 12.1. The Executive shall consist of:
-	* 12.1.1. The President;
-	* 12.1.2. The Vice-President;
-	* 12.1.3. The Secretary; and
-	* 12.1.4. The Treasurer.
-* 12.2. The Treasurer shall receive all monies from subscription or other sources, and shall disburse same for, and on account of, the Club.
-* 12.3. The Executive shall have the power to make regulations necessary to put into effect this constitution, provided that such regulations are consistent with this Constitution and the objectives of the Club.
-* 12.4. In the event the President is unable to fulfill their duties, the Executive shall have the power to promote, in the order of precedence set out in clause 9.1, members of the Executive to Acting President subject to ratification at GM.
-* 12.5. The Executive shall have the power to appoint working groups from within the membership to perform duties associated with a specific agenda. Such working groups shall, at all times, be answerable to the Executive.
-* 12.6. A member of the Executive ceases to be a member of the Executive as stipulated under clause 11.
-* 12.7 The Executive shall meet at least once per term during the Academic year.
+4.  **"Committee"** means the Committee of the Club;
 
-## 13. The President
-* 13.1. The President will be elected by the members of the Club at the IGM and all subsequent AGMs.
-* 13.2. The President shall act on behalf of the Club between Executive meetings providing such actions are reported to the Executive, which may confirm, reverse or vary the validity of such actions.
-* 13.3. The President is the official spokesperson of the Club and is responsible for the direction and implementation of resolutions made by the Executive, Committee or a GM, and other duties as conferred by the Executive, Committee or GM from time to time.
-* 13.4. The Presidents term of office is from one AGM to the subsequent AGM.
-* 13.5. The President ceases to hold the position of President:
-	* 13.5.1. On the expiration of the term of office of the President
-	* 13.5.2. On receipt by the Vice-President of a written letter of resignation.
-	* 13.5.3. On being dismissed pursuant to the Constitution.
-* 13.6. The President may be suspended by a special resolution of the Committee, with such a resolution required to then go before a SGM fourteen days after notice of the resolution, to be conducted by the Vice-President for the deliberation of reinstatement or dismissal.
-* 13.7. Where the President has been suspended or ceases to hold that position, the Executive shall have the power to promote, in the order of precedence set out in clause 9.1, members of the Executive to Acting President subject to ratification at a GM
+5.  **"Executive"** means the Executive Committee of the Club;
 
-## 14. The Vice-President
-* 14.1. The Vice-President will be elected by the members of the Club at the IGM and all subsequent AGMs.
-* 14.2. The Vice-President is the Deputy Chairperson of the Committee and the Executive.
-* 14.3. The Vice-Presidents term of office is from one AGM to the subsequent AGM.
-* 14.4. Duties of the Vice-President shall include:
-	* 14.4.1. Assistance with the running of the Club;
-	* 14.4.2. Providing advice to the President; and
-	* 14.4.3. Chairing meetings in the absence of the President.
-* 14.5. The Vice-President ceases to hold the position of Vice-President:
-	* 14.5.1. On the expiration of the term of office of the Vice-President
-	* 14.5.2. On receipt by the President of a written letter of resignation.
-	* 14.5.3. On being dismissed pursuant of the Constitution.
-* 14.6. The Vice-President may be suspended by a special resolution of the Committee, with such a resolution required to then go before a SGM fourteen days after notice of the resolution, to be conducted by the President for the deliberation of reinstatement or dismissal.
-* 14.7. Where the Vice-President has been suspended or ceases to hold that position, the Executive shall have the power to promote, in the order of precedence set out in clause 9.1, members of the Executive to Acting Vice-President subject to ratification at a GM.
+6.  **"GM"** means a General Meeting of the Club;
 
-## 15. The Secretary
-* 15.1. The Secretary will be elected by the members of the Club at the IGM and all subsequent AGMs.
-* 15.2. The Secretary is the care taker of the records of the Club.
-* 15.3. The Minutes of all resolutions and proceedings of the Committee and Executive must be recorded by the Secretary.
-* 15.4. Duties of the Secretary shall include:
-	* 15.4.1. Assistance with the running of the Club;
-	* 15.4.2. Providing support to the President and Vice-President; and
-	* 15.4.3. Communicating with the Members of the Club on a regular basis.
-* 15.5. The Secretary ceases to hold the position of Secretary:
-	* 15.5.1. On the expiration of the term of office of the Secretary;
-	* 15.5.2. On receipt by the President of a written letter of resignation.
-	* 15.5.3. On being dismissed pursuant of the Constitution.
-* 15.6. The Secretary may be suspended by a special resolution of the Committee, with such a resolution required to then go before a SGM fourteen days after notice of the resolution, to be conducted by the President for the deliberation of reinstatement or dismissal.
-* 15.7. Where the Secretary has been suspended or ceases to hold that position, the Executive shall have the power to promote, in the order of precedence set out in clause 9.1, members of the Executive to Acting Secretary subject to ratification at a GM.
+7.  **"AGM"** means the Annual General Meeting of the Club;
 
-## 16. The Treasurer and Finances of the Club
+8.  **"SGM" **means a Special General Meeting of the Club;
 
-* 16.1. The Treasurer will be elected by the members of the Club at the IGM and all subsequent AGMs.
-* 16.2. The Treasurer shall be responsible for the keeping of the financial records of the Club, which shall be maintained in a current and accurate form, and shall present a report of the current state of the Club finances to each Committee and General Meeting.
-* 16.3. The Treasurer ceases to hold the position of Treasurer:
-	* 16.3.1. On the expiration of the term of office of the Treasurer
-	* 16.3.2. On receipt by the President of a written letter of resignation.
-	* 16.3.3. On being dismissed pursuant of the Constitution.
-* 16.4. The Treasurer may be suspended by a special resolution of the Committee, with such a resolution required to then go before a SGM fourteen days after notice of the resolution, to be conducted by the President for the deliberation of reinstatement or dismissal.
-* 16.5. Where the Treasurer has been suspended or ceases to hold that position, the Executive shall have the power to promote, in the order of precedence set out in clause 9.1, members of the Executive to Acting Treasurer subject to ratification at a GM.
-* 16.6. The Financial Records of the Club shall be available for inspection by an officer of the Executive of the CA within two working days upon receiving written notice from an Officer of the CA detailing a resolution of the CA Executive making such a request.
-* 16.7. The Club shall keep a bank account, for the purpose of holding the funds of the Club.
-* 16.8. The Signatories of the Club’s bank account shall be the President, Vice-President, Secretary and Treasurer, of which two of the four shall be the authority to draw on the account.
-* 16.9. The Treasurer shall present a financial statement at the AGM, which shall detail each financial transaction made on behalf of the Club from the time of the previous AGM.
-* 16.10. The Treasurer shall give a copy to the CA of the annual financial statement presented to the AGM.
-* 16.11. A payment shall not be made on behalf of the Club without the Committee or a GM passing a resolution expressly approving the payment and the reason for the payment.
-* 16.12. The Committee shall report to each GM the financial decisions made by the Committee from the time of the last GM.
+9.  **"Academic Day"** means a weekday defined by the University of Adelaide to be  within  semester.
 
-## 17 The Clubs Association Delegate
-* 17.1 The CA Delegate shall be appointed by the Committee, from the members of the Committee.
-* 17.2 The CA Delegate shall attend all meetings of the CA Council and shall vote on behalf of the Club.
-	* 17.2.1 The CA Delegate shall vote in accordance with the directions of the Executive. Where the Executive has not directed the CA Delegate as to how to vote, the CA Delegate shall vote in the manner he deems to most advantage the Club.
-	* 17.2.2 In the event that the CA Delegate is unable to attend a CA Council meeting, the Executive shall appoint a member of the Executive to attend and vote at the CA Council meeting. In the event that no member of the Executive can attend, the Executive shall appoint a member of the Committee, or failing that, a member of the Club. Such a representative shall be bound by the same voting requirements as the CA Delegate.
-* 17.3 The CA Delegate shall report to Committee on the proceedings of any CA Council Meetings. In the event that another member of the Club attended in the CA Delegates place, that member shall report to Committee.
-* 17.4 The CA Delegate may be an individual also holding an executive committee position in the club.
+10. **"Office"** means an elected position in the Club provided for in Section 7.1 of the Constitution;
 
-## 18. Terms of Office
-* 18.1. The Committee shall meet at least four times per semester during the Academic year, with at least one meeting in each Academic term.
-* 18.2. The office of the Committee shall begin within fourteen days of the close of the AGM.
-* 18.3. The Term of Office for a co-opted Committee member shall be three months, by which time a GM must be called to ratify the continuation of the position to full term.
+11. **"Officer"** means a member who has been elected to an “office”.
 
-## 19. General Meetings
-* 19.1. A General Meeting of the Club shall be the ultimate decision-making body of the Club and shall have the power to direct the Committee, the Executive and the officers of the Club.
-* 19.2. The President, or in their absence the Vice-President, shall call a GM:
-	* 19.2.1. On their own volition;
-	* 19.2.2. At the direction of the Committee; or
-	* 19.2.3. Within fourteen days of receiving a petition calling for a GM from:
-		* i. Three voting Committee members; or
-		* ii. Seven Club members.
-* 19.3. GMs shall be conducted in accordance with the CA Standing Orders.
-* 19.4. The quorum of a GM shall be ten voting members.
-* 19.5. The minutes of each GM shall include a list of those persons that attended that meeting and a signed attendance list.
-* 19.6. The Treasurer shall submit to each GM a financial statement.
-* 19.8. Minutes of each GM, including an AGM or SGM, shall be provided to the CA and shall include copies of reports presented to that meeting.
-* 19.9 Notice of the GM shall be given as for notice of an AGM pursuant to clause 20.11
+12. **"Executive"** means the executive body of the club.
 
-## 20. The Annual General Meeting
-* 20.1. The AGM shall be held during the fourth academic term every year in order to:
-	* 20.1.1. Receive reports from the officers of the Club;
-	* 20.1.2. Receive the Annual Financial Statement;
-	* 20.1.3. Elect the officers of the Club as provided for in Section 9.1 of the Constitution; and
-	* 20.1.4. Transact other such business that may be conducted at a General Meeting.
-* 20.2. The AGM shall be held on an Academic Day at a venue on a campus of the University or in the City of Adelaide.
-* 20.3. Nominations for elected office shall be received until such time as the Returning Officer closes the nominations for each position.
-* 20.4. Members of the Club shall be eligible to nominate.
-* 20.5. The officers elected at an AGM shall take office within fourteen days of that AGM unless the President, or in their absence the Vice-President, receives a petition from ten members requesting a SGM to contest the conduct of that election within fourteen day, and such a petition shall list the grounds for contesting the conduct of that election, upon which the President, or in their absence the Vice-President, shall call a SGM to be held within fifteen Academic Days.
-* 20.6. SGM called pursuant to clause 20.5 which rules with at least two-thirds majority of the members present that an election was invalid shall endorse the result of that election and those officers shall take office within seven days of that meeting.
-* 20.7. If insufficient nominations are received at an AGM to fill all the officers of the Club, the Committee shall have the power to co-opt members of the Club to fill the offices that remain unfilled at the time of the AGM.
-* 20.8. The quorum of an AGM shall be 10 voting members.
-* 20.9. Voting for an election shall be by secret ballot and the optional preferential method.
-* 20.10. The Committee shall appoint a member, who shall not be a candidate, to act as the Returning Officer.
-* 20.11. Notice for the AGM shall be given to the members of the Club and the CA at least fourteen days before the AGM. The Committee shall ensure the notice details the time, date and place of the meeting as well as the offices of the Club up for election
-* 20.12. The Returning Officer may close nominations for each AGM position at a time decided by the committee, no earlier than seven days prior to the AGM.
-* 20.13. If nominations are to be closed before the AGM, then the date that nominations close must be announced to the club at large no later than the announcement of the AGM.
-## 21. Special General Meetings
-* 21.1. A SGM shall be called if:
-	* 21.1.1. It is desirable to dedicate a GM to one purpose;
-	* 21.1.2. A motion of No-Confidence in an officer of the Club is to be considered;
-	* 21.1.3. The result of an election is to be challenged pursuant to clause 20.5 of the Constitution.
-* 21.2. A motion of No-Confidence that is supported by at least two-thirds of the members present at a SGM shall terminate the office of that officer forthwith and the President, or in their absence the Vice-President, shall call another GM to elect another member to hold that office within fifteen Academic Days.
-* 21.3. An SGM must be called within ten Academic Days should the Secretary receive a written request from at least ten voting members of the Club. The request shall state the exact purpose of the meeting. The quorum for such meeting must include at least seven of the petitioning members.
-* 21.4. Notice for a SGM must be given as for the notice for an AGM pursuant to clause 20.11.
+Any other words have their plain meaning.
 
-## 22. Rules and Policy
-* 22.1. The Executive may make rules and policy for any purpose pertaining to the affairs of the Club.
-* 22.2. The procedure for making a rule is as follows:
-	* 22.2.1. A rule must be proposed by resolution of the Executive by a simple majority;
-	* 22.2.2. The proposed rule must then lie on the table of the Executive until the next regular meeting, in which it can further be discussed, amended and then by special resolution by a simple majority, confirmed or disallowed.
-* 22.3. The procedure for making a policy is as follows:
-	* 22.3.1. A policy may be created by resolution of the Executive by an absolute majority;
-* 22.4. Correction of typographical errors, changes in punctuation, numbers, and formatting are considered purely administrative alterations, and may be performed by the President, without requiring a resolution of the Executive. The President must notify the Executive of any such changes.
+# 4. Membership
 
-## 23. Trustees Upon Winding Up
-* 23.1. In the event that the Club winds up or lapses, the assets remaining, after the paying of debts and liabilities, shall be transferred to the CA, and those assets shall be used by the CA in accordance with the CA Constitution.
+1.  **_General m_****_embership _**
 
-## 24. Interpretation and Enactment
-* 24.1. This Constitution shall be interpreted with close regard to the Principles and Objectives of the Club as set out in section 1.
-* 21.2 A question of interpretation of the Constitution shall be determined by a GM.
-* 24.3. This Constitution shall take effect and be deemed enacted as from the time of adoption by a SGM of the Club.
+General membership in the club is open to any current undergraduate or postgraduate student at the University of Adelaide who:
 
-## 25. Constitutional Amendments
-* 25.1. Amendments to the Constitution must be considered at a GM of the Club.
-* 25.2 Amendments to the Constitution may be proposed by
-	* 25.2.1 A resolution of the Executive;
-	* 25.2.2. A resolution of the Committee;
-	* 25.2.3. A petition bearing the signature of four members of the Committee
-	* 25.2.4. A petition bearing the signature of ten members of the Club.
-* 25.3 Notice of the proposed amendment, including a full and complete wording of the amendment, must be included in the notice of the General Meeting pursuant to clause 20.11.
-* 25.4 The Constitution shall be amended by resolution supported by no less than two-thirds of the members present at the GM, providing that the GM has quorum.
-* 25.5 A copy of the amended Constitution shall be provided to the CA within fourteen days of the GM.
+    1. pays the membership fee as determined under Section 5 **and**
+
+    2. submits to the committee the following information:
+1. Full name **and**
+2. student ID Number **and**
+3. preferred email address.
+
+2.  **_Associate Membership _**
+
+Associate membership in the club is open to any person not a student of the University of Adelaide only if the applicant may satisfy any possible reasonable objections the committee may raise. Associate members must also satisfy the criteria under section 4.1.
+
+3.  **_Honorary Membership_*** *
+
+Honorary membership in the club is open to any person upon whom the club has conferred. Such a membership may only be conferred by a resolution at a GM.
+
+4. **Refuse membership**
+
+The committee has the right to **refuse membership **to any applicant without  giving reason.
+
+5. **_Revoke membership_**
+
+The committee has the right to **revoke the membership** of any member without giving reason under section 6.
+
+# 5. Membership Fee
+
+1.  The club’s membership fee is **determined at each AGM **for the following year. 
+
+2.  The membership fee provides membership **until the subsequent AGM.**
+
+3.  **Honorary members **of the club are exempt from membership fees as set out in section 4.3.
+
+# 6. Termination of Membership
+
+1. **_Ordinary membership termination_**
+
+The committee may **revoke any membership** for whatever reason if:
+
+    1. the member is given a written **notice of suspension** **and**
+
+    2. a** GM** is held to vote on the revocation within **3 weeks of suspension and**
+
+    3. the member is **notified in writing within 48 hours** of the conclusion of the GM.
+
+2. **_Suspended members_**
+
+During the process as described in section 6.1:
+
+    4. Suspended members **may not attend club events** or otherwise take part in club activities until a resolution is reached **and**
+
+    5. If the GM results in the revocation of a member’s membership, their **membership is terminated**.
+
+3. **_Member’s own choice_**
+
+Members of the club **may terminate their own membership** by writing to the committee.
+
+4. **_Fee refund_**
+
+Members who have had their membership terminated are no longer affiliated with the club and **cannot have their membership fee refunded**. 
+
+# 7. The Committee
+
+1.  **_Makeup _**
+
+The committee consists of **9 members**. In order of precedence they are the **President**, the **Vice-President**, the **Treasurer**, the **Secretary**, **four General** committee members and the **First-Year Representative**.
+
+2. **_Election_**
+
+A committee is elected to office **at the AGM**, with the **exception of the First Year Representative**. The First Year Representative is elected to office as set out in **section 17.1**. The committee including the First Year Representative holds office **until the subsequent AGM**.
+
+3.  **_Duties _**
+
+The committee acts on behalf of the club in the general day-to-day running of the club and **must not act to the detriment **of the club’s interests.
+
+4. **_Casual Vacancies_**
+
+The committee has the power to **fill any casual vacancies** arising from circumstances outlined in section 9 during its term of office, subject to confirmation at a GM. Such a GM must be held within 3 of the vacancy being filled unless the AGM is to be held within 6 weeks.
+
+5. **_Expiration _**
+
+All offices expire at the AGM, but former officers may **re-run any number of times**.
+
+# 8. Special Resolutions of the Committee
+
+1. **_Definition _**
+
+A special resolution is a motion put forth by the committee on a specific matter which is **NOT**:
+
+    1. related to the day-to-day running of the club **or**;
+
+    2. already accounted for by constitutional or executive powers;
+
+2. A special resolution is required for a matter to be brought to a GM to be decided.
+
+3. **_Process_**
+
+    3. A special resolution must be raised during a committee meeting as set out in section 9, and voted upon as in section 9.2.
+
+    4. For the resolution to take effect, the resolution must be put to vote in a SGM as set out in section .
+
+# 9. Committee Meetings
+
+1. **_Calling a meeting_**
+
+A meeting is called by the President or the Vice-President to discuss day-to-day running of the club and any issues for the committee to decide. The meeting must be called at least 1 week in advance; if they are not, committee members may be absent without reason and suffer no consequence as set out in section 10.
+
+2. **_Voting procedure_**
+
+    1. The President has a **deliberative vote** and in the case of an equality of votes, may exercise a casting vote. This means they effectively have **2** votes, 1 in capacity as member and another in capacity as the chair of the meeting.
+
+    2. No committee member may delegate his/her voting right in absentia.
+
+    3. The quorum of a committee meeting is** 5 distinct voting members **of the committee. 
+
+    4. If a quorum is not present then the **executive has general decisive power**.
+
+3. **_Minutes _**
+
+Minutes of all meetings must be kept and they must include:
+
+    5. The names of the persons that attended that meeting **and**
+
+    6. discussion points **and**
+
+    7. decisions of the committee
+
+4. The President chairs all committee and GMs of the Club. In their absence, chair of the meeting will follow in the order of precedence stated in section 7.1.
+
+5. **_Special Circumstances_** 
+
+Upon receiving a written petition of 3 voting committee members, the President, or in their absence the Vice-President, must call a meeting of the committee within 14 days.
+
+# 10. Extraordinary Committee Changes
+
+1. **_Cessation of Office_**
+
+ A member of the committee ceases holding their office if:
+
+    1. The President or Vice-President receives a** written notice of resignation** from that member **or**
+
+    2. The member is absent, without leave of absence being granted by resolution of the committee, for **3 consecutive meetings** of the committee of which the member was notified **or**
+
+    3. Their **membership in the club is terminated** as set out in section 6 **or**
+
+    4. A **motion of no-confidence **in a committee member’s ability to perform their duties is expressed by at least 6 out of 9 possible members, whereby a SGM must be called to vote on the matter of changing the committee.
+
+2.  **_Filling a vacancy_**
+
+When an office becomes vacant a GM must called to fill the position within **6 weeks unless**
+
+    5.  The** AGM is to be held within 8 weeks** of the position becoming vacant **or**
+
+    6.  There is no academic day within the next 6 weeks. In this instance the GM is to be held within 2 weeks of the next academic day.
+
+3.  The **President or in their absence the Vice-President may appoint **any volunteering club member to fill the office in the interim.
+
+# 11. The Executive Body
+
+1. **_Makeup_**
+
+The executive consists of:
+
+    1. **The President;**
+
+    2. **The Vice-President;**
+
+    3. **The Secretary; and**
+
+    4. **The Treasurer**.
+
+2. The executive **directs the committee** in their duties set out in section 7.
+
+3. **_General Power_**
+
+The executive has **general power** to make regulations necessary to put into effect this constitution, **provided that** such regulations are **consistent** with this constitution and the objectives of the club.
+
+4. **_Acting Presidencies_**
+
+In the event the President is unable to fulfill their duties, the executive has the **power to promote**, in the order of precedence set out in clause 7.1., a member of the executive to** acting President **subject to ratification at GM.
+
+5. **_Working Groups_**
+
+The executive has the power to **appoint working groups** from within the membership to perform duties associated with a specific agenda. Such working groups are, at all times, **answerable to the executive**.
+
+# 12. The President
+
+1. The President is **elected **by the members of the club at **each AGM**.
+
+2. **_Duties_**
+
+The President is the **official spokesperson of the club** and is responsible for the direction and implementation of resolutions made by the executive, committee or a GM.
+
+# 13. The Vice President
+
+1. The Vice-President is **elected** by the members of the Club at **each AGM**.
+
+2. **_Duties_**
+
+The Vice-President is the deputy chairperson of the committee and the executive. 
+
+# 14. The Secretary
+
+1. The Secretary is **elected **by the members of the Club at **each AGM.**
+
+2. **_Duties_**
+
+The Secretary is generally responsible for all records of the club. The Secretary **must record minutes **for all meetings of the club including committee meetings and GM.
+
+# 15. The Treasurer
+
+1. The Treasurer is **elected **by the members of the Club at **each AGM.**
+
+2. **_Duties_**
+
+The Treasurer is generally responsible for **maintaining the finances **of the club, including day-to-day and event expenses. 
+
+3. **_Annual Report_**
+
+The Treasurer must **present **a report of the year’s finances at each AGM, including large expenses and income.
+
+# 16. The General Committee
+
+1. The General Committee members are **elected **by the members of the Club at **each AGM.**
+
+2. **_Duties_**
+
+The General Committee are responsible for **assisting the executive in **running the club. In general they are also responsible for assisting club members with regards to the goals of the club.
+
+# 17. The First Year Representative
+
+1. The First Year Representative is **elected **by the members of the Club during a GM during the first half of the first semester of the year**.**
+
+2. **_Duties_**
+
+The First Year Representative is responsible for ensuring that members of the club in their** first year at university are represented**. This may include any concerns or ideas that they believe should be known by the committee to better meet the goals of the club in regards to first year members. In addition to this, they are responsible for **assisting the executive in **running the club.
+
+# 18. The Club Finances
+
+1. **_Bank Account_**
+
+The club must hold a bank account for the purpose of holding the club’s funds.
+
+2. **_Authority to access funds_**
+
+The** Treasurer and President** are the "two-to-sign" meaning only they may access the club fund’s, with the **approval of the other**.
+
+3. **_Signatories_**
+
+The **signatories of the club’s bank account** are the President, Vice-President, Secretary and Treasurer.
+
+4. All payments on behalf of the Club must be **approved at a committee meeting** as stated in section 9.
+
+# 19. General Meetings
+
+1. **_Purpose_**
+
+A General Meeting of the club is the ultimate decision-making body of the club and has the power to direct the committee, the cxecutive and the officers of the club. It is reserved for only important decisions which concerns the club as a whole.
+
+2. **_Calling a meeting_**
+
+A general meeting is considered "called" as long as the committee have reasonably made efforts to advertise the meeting to its members.
+
+3. **_Timing_**
+
+A president must call a meeting **within 14 days** when
+
+    1. the committee directs them to do as such **or**
+
+    2. they receive a petition calling for a GM from at least **7 club members.**
+
+4. The meeting must be held not sooner than **10 working days **after it is called.
+
+5. The meeting must be held not later than **1 calendar month **after it is called.
+
+6. **_Conducting a meeting_**
+
+The General Meeting is **directed by the committee** regarding whatever reason for which it was convened. 
+
+7. **_Voting _**
+
+If a matter need be put to vote, then **each member has 1 vote **which they **may not delegate** to another. The **quorum** for a General Meeting in which a matter must be voted is **10 members**.
+
+8. **_Record keeping_**
+
+The Secretary must record all the attending members in the minutes for the General Meeting.
+
+# 20. The Annual General Meeting
+
+1. **_Definition_**
+
+The AGM is a **special** GM specifically for the purpose of **conducting concluding business** for the year. This includes reports from at least the President and the Treasurer, and the election of a new committee. The process and rules are otherwise the same as a GM.
+
+2. **_Annual occurrence_**
+
+The AGM must be held during an academic day during the second half of the second semester every year.
+
+3. **_Returning officer_**
+
+A "returning officer" must be appointed by the committee prior to the AGM. The returning officer cannot be a candidate for that election, but can otherwise be any willing member.
+
+4. **_Electing Officers_**
+
+A new committee must be formed at each AGM. The officers as stated in section 7 must be elected by members of the club.
+
+5. **_Office Nomination_**
+
+Candidates for the offices of President and Vice-President must be **nominated **to the returning officer at **least 1 business day** prior to the AGM **unless **no nominations have been received at that point. In this case nominations may be made at the AGM. **All other office candidates** may be nominated at the AGM.
+
+# 21. The Trustees upon Winding-up
+
+1. In the event that the club winds up or lapses, the assets remaining, after the paying of debts and liabilities, shall be transferred to the Union, and those assets shall be used by the Union in accordance with the Union constitution.
+
+# 22. The Constitution
+
+1. **_Interpretation_**
+
+This constitution is to be interpreted with close regard to the principles and objectives of the club as set out in section 1.
+
+2. **_Effectiveness_**
+
+This constitution takes effect when it is **ratified by club members in a GM**.
+
+3. **_Amendments_**
+
+Amendments to this constitution may be proposed by a resolution of the committee or a** petition from at least 10 members** of the club. Any amendments to this constitution **must be ratified by club members** in a GM in order for the amendment to take effect. 
+
