@@ -1,12 +1,16 @@
-The University of Adelaide 
+## The University of Adelaide 
 
-Computer Science Club Constitution
+# Computer Science Club Constitution
 
 [[TOC]]
 
 # 1. Principles and Objectives of the Club
 
 1.  The **primary objective** of the club is to provide collaboration, networking, intellectual stimulation and social opportunities, as well as any other pursuit reasonably suited for students studying computer science at the University of Adelaide and other interested people. 
+
+2. Not for Profit Clause:
+The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation. 
+
 
 # 2. Name
 
