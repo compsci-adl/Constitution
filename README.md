@@ -112,7 +112,7 @@ Any other words have their plain meaning.
 
 # 7. The Committee
 
-1.  **_Makeup _**
+1.  **_Makeup_**
 
     The committee consists of **9 members**. In order of precedence they are the **President**, the **Vice-President**, the **Treasurer**, the **Secretary**, **four General** committee members and the **First-Year Representative**.
 
@@ -120,7 +120,7 @@ Any other words have their plain meaning.
 
     A committee is elected to office **at the AGM**, with the **exception of the First Year Representative**. The First Year Representative is elected to office as set out in **section 17.1**. The committee including the First Year Representative holds office **until the subsequent AGM**.
 
-3.  **_Duties _**
+3.  **_Duties_**
 
     The committee acts on behalf of the club in the general day-to-day running of the club and **must not act to the detriment** of the club’s interests.
 
@@ -128,13 +128,13 @@ Any other words have their plain meaning.
 
     The committee has the power to **fill any casual vacancies** arising from circumstances outlined in section 9 during its term of office, subject to confirmation at a GM. Such a GM must be held within 3 of the vacancy being filled unless the AGM is to be held within 6 weeks.
 
-5. **_Expiration _**
+5. **_Expiration_**
 
     All offices expire at the AGM, but former officers may **re-run any number of times**.
 
 # 8. Special Resolutions of the Committee
 
-1. **_Definition _**
+1. **_Definition_**
 
     A special resolution is a motion put forth by the committee on a specific matter which is **NOT**:
 
@@ -328,7 +328,7 @@ Any other words have their plain meaning.
 
     The General Meeting is **directed by the committee** regarding whatever reason for which it was convened. 
 
-7. **_Voting _**
+7. **_Voting_**
 
     If a matter need be put to vote, then **each member has 1 vote** which they **may not delegate** to another. The **quorum** for a General Meeting in which a matter must be voted is **10 members**.
 
