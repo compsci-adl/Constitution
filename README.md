@@ -16,7 +16,7 @@ The assets and income of the organisation shall be applied solely in furtherance
 
 1. The legal and formal name of the club is the "**_Computer Science Club_**".
 
-2. For the purposes of publicity, publication, or other purposes as approved by the President or his delegate, the name of the club may be written as a syntactically valid source code statement or equivalent for any self-hosting computer programming language which calls a zero-parameter callable unit named "club" contained or referenced within a first-class object named "cs", discarding any returned value. These names need not be capitalised as described.
+2. For the purposes of publicity, publication, or other purposes as approved by the President or their delegate, the name of the Club may be written as “CS Club”. It may also be written as a syntactically valid source code statement or equivalent for any self-hosting computer programming language which calls a zero-parameter callable unit named "club" contained or referenced within a first-class object named "cs", discarding any returned value. These names need not be capitalised as described.
 
 # 3. Dictionary
 
@@ -164,7 +164,7 @@ Any other words have their plain meaning.
 
     1. The President has a **deliberative vote** and in the case of an equality of votes, may exercise a casting vote. This means they effectively have **2** votes, 1 in capacity as member and another in capacity as the chair of the meeting.
 
-    2. No committee member may delegate his/her voting right in absentia.
+    2. No committee member may delegate their voting right in absentia.
 
     3. The quorum of a committee meeting is **5 distinct voting members** of the committee. 
 
