@@ -32,7 +32,7 @@ Unless a contrary intention is evident, the following definitions apply to this 
 
 7.  **"AGM"** means the Annual General Meeting of the Club;
 
-8.  **"SGM" **means a Special General Meeting of the Club;
+8.  **"SGM"** means a Special General Meeting of the Club;
 
 9.  **"Academic Day"** means a weekday defined by the University of Adelaide to be  within  semester.
 
@@ -67,7 +67,7 @@ Honorary membership in the club is open to any person upon whom the club has con
 
 4. **Refuse membership**
 
-The committee has the right to **refuse membership **to any applicant without  giving reason.
+The committee has the right to **refuse membership** to any applicant without  giving reason.
 
 5. **_Revoke membership_**
 
@@ -75,11 +75,11 @@ The committee has the right to **revoke the membership** of any member without g
 
 # 5. Membership Fee
 
-1.  The club’s membership fee is **determined at each AGM **for the following year. 
+1.  The club’s membership fee is **determined at each AGM** for the following year. 
 
 2.  The membership fee provides membership **until the subsequent AGM.**
 
-3.  **Honorary members **of the club are exempt from membership fees as set out in section 4.3.
+3.  **Honorary members** of the club are exempt from membership fees as set out in section 4.3.
 
 # 6. Termination of Membership
 
@@ -121,7 +121,7 @@ A committee is elected to office **at the AGM**, with the **exception of the Fir
 
 3.  **_Duties _**
 
-The committee acts on behalf of the club in the general day-to-day running of the club and **must not act to the detriment **of the club’s interests.
+The committee acts on behalf of the club in the general day-to-day running of the club and **must not act to the detriment** of the club’s interests.
 
 4. **_Casual Vacancies_**
 
@@ -161,7 +161,7 @@ A meeting is called by the President or the Vice-President to discuss day-to-day
 
     2. No committee member may delegate his/her voting right in absentia.
 
-    3. The quorum of a committee meeting is** 5 distinct voting members **of the committee. 
+    3. The quorum of a committee meeting is** 5 distinct voting members** of the committee. 
 
     4. If a quorum is not present then the **executive has general decisive power**.
 
@@ -193,7 +193,7 @@ Upon receiving a written petition of 3 voting committee members, the President, 
 
     3. Their **membership in the club is terminated** as set out in section 6 **or**
 
-    4. A **motion of no-confidence **in a committee member’s ability to perform their duties is expressed by at least 6 out of 9 possible members, whereby a SGM must be called to vote on the matter of changing the committee.
+    4. A **motion of no-confidence** in a committee member’s ability to perform their duties is expressed by at least 6 out of 9 possible members, whereby a SGM must be called to vote on the matter of changing the committee.
 
 2.  **_Filling a vacancy_**
 
@@ -203,7 +203,7 @@ When an office becomes vacant a GM must called to fill the position within **6 w
 
     6.  There is no academic day within the next 6 weeks. In this instance the GM is to be held within 2 weeks of the next academic day.
 
-3.  The **President or in their absence the Vice-President may appoint **any volunteering club member to fill the office in the interim.
+3.  The **President or in their absence the Vice-President may appoint** any volunteering club member to fill the office in the interim.
 
 # 11. The Executive Body
 
@@ -227,7 +227,7 @@ The executive has **general power** to make regulations necessary to put into ef
 
 4. **_Acting Presidencies_**
 
-In the event the President is unable to fulfill their duties, the executive has the **power to promote**, in the order of precedence set out in clause 7.1., a member of the executive to** acting President **subject to ratification at GM.
+In the event the President is unable to fulfill their duties, the executive has the **power to promote**, in the order of precedence set out in clause 7.1., a member of the executive to** acting President** subject to ratification at GM.
 
 5. **_Working Groups_**
 
@@ -235,7 +235,7 @@ The executive has the power to **appoint working groups** from within the member
 
 # 12. The President
 
-1. The President is **elected **by the members of the club at **each AGM**.
+1. The President is **elected** by the members of the club at **each AGM**.
 
 2. **_Duties_**
 
@@ -255,35 +255,35 @@ The Vice-President is the deputy chairperson of the committee and the executive.
 
 2. **_Duties_**
 
-The Secretary is generally responsible for all records of the club. The Secretary **must record minutes **for all meetings of the club including committee meetings and GM.
+The Secretary is generally responsible for all records of the club. The Secretary **must record minutes** for all meetings of the club including committee meetings and GM.
 
 # 15. The Treasurer
 
-1. The Treasurer is **elected **by the members of the Club at **each AGM.**
+1. The Treasurer is **elected** by the members of the Club at** each AGM.**
 
 2. **_Duties_**
 
-The Treasurer is generally responsible for **maintaining the finances **of the club, including day-to-day and event expenses. 
+The Treasurer is generally responsible for **maintaining the finances** of the club, including day-to-day and event expenses. 
 
 3. **_Annual Report_**
 
-The Treasurer must **present **a report of the year’s finances at each AGM, including large expenses and income.
+The Treasurer must **present** a report of the year’s finances at each AGM, including large expenses and income.
 
 # 16. The General Committee
 
-1. The General Committee members are **elected **by the members of the Club at **each AGM.**
+1. The General Committee members are **elected* *by the members of the Club at** each AGM.**
 
 2. **_Duties_**
 
-The General Committee are responsible for **assisting the executive in **running the club. In general they are also responsible for assisting club members with regards to the goals of the club.
+The General Committee are responsible for **assisting the executive in** running the club. In general they are also responsible for assisting club members with regards to the goals of the club.
 
 # 17. The First Year Representative
 
-1. The First Year Representative is **elected **by the members of the Club during a GM during the first half of the first semester of the year**.**
+1. The First Year Representative is **elected** by the members of the Club during a GM during the first half of the first semester of the year**.**
 
 2. **_Duties_**
 
-The First Year Representative is responsible for ensuring that members of the club in their** first year at university are represented**. This may include any concerns or ideas that they believe should be known by the committee to better meet the goals of the club in regards to first year members. In addition to this, they are responsible for **assisting the executive in **running the club.
+The First Year Representative is responsible for ensuring that members of the club in their** first year at university are represented**. This may include any concerns or ideas that they believe should be known by the committee to better meet the goals of the club in regards to first year members. In addition to this, they are responsible for **assisting the executive in** running the club.
 
 # 18. The Club Finances
 
@@ -319,9 +319,9 @@ A president must call a meeting **within 14 days** when
 
     2. they receive a petition calling for a GM from at least **7 club members.**
 
-4. The meeting must be held not sooner than **10 working days **after it is called.
+4. The meeting must be held not sooner than **10 working days** after it is called.
 
-5. The meeting must be held not later than **1 calendar month **after it is called.
+5. The meeting must be held not later than **1 calendar month** after it is called.
 
 6. **_Conducting a meeting_**
 
@@ -329,7 +329,7 @@ The General Meeting is **directed by the committee** regarding whatever reason f
 
 7. **_Voting _**
 
-If a matter need be put to vote, then **each member has 1 vote **which they **may not delegate** to another. The **quorum** for a General Meeting in which a matter must be voted is **10 members**.
+If a matter need be put to vote, then **each member has 1 vote** which they **may not delegate** to another. The **quorum** for a General Meeting in which a matter must be voted is **10 members**.
 
 8. **_Record keeping_**
 
@@ -355,7 +355,7 @@ A new committee must be formed at each AGM. The officers as stated in section 7 
 
 5. **_Office Nomination_**
 
-Candidates for the offices of President and Vice-President must be **nominated **to the returning officer at **least 1 business day** prior to the AGM **unless **no nominations have been received at that point. In this case nominations may be made at the AGM. **All other office candidates** may be nominated at the AGM.
+Candidates for the offices of President and Vice-President must be **nominated** to the returning officer at **least 1 business day** prior to the AGM **unless** no nominations have been received at that point. In this case nominations may be made at the AGM. **All other office candidates** may be nominated at the AGM.
 
 # 21. The Trustees upon Winding-up
 
