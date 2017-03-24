@@ -46,7 +46,7 @@ Any other words have their plain meaning.
 
 # 4. Membership
 
-1.  **_General m_****_embership _**
+1.  **_General membership_**
 
 
     General membership in the club is open to any current undergraduate or postgraduate student at the University of Adelaide who:
@@ -58,15 +58,15 @@ Any other words have their plain meaning.
         2. student ID Number **and**
         3. preferred email address.
 
-2.  **_Associate Membership _**
+2.  **_Associate Membership_**
 
     Associate membership in the club is open to any person not a student of the University of Adelaide only if the applicant may satisfy any possible reasonable objections the committee may raise. Associate members must also satisfy the criteria under section 4.1.
 
-3.  **_Honorary Membership_*** *
+3.  **_Honorary Membership_**
 
     Honorary membership in the club is open to any person upon whom the club has conferred. Such a membership may only be conferred by a resolution at a GM.
 
-4. **Refuse membership**
+4. **_Refuse membership_**
 
     The committee has the right to **refuse membership** to any applicant without  giving reason.
 
@@ -90,7 +90,7 @@ Any other words have their plain meaning.
 
     1. the member is given a written **notice of suspension** **and**
 
-    2. a** GM** is held to vote on the revocation within **3 weeks of suspension and**
+    2. a **GM** is held to vote on the revocation within **3 weeks of suspension and**
 
     3. the member is **notified in writing within 48 hours** of the conclusion of the GM.
 
@@ -162,11 +162,11 @@ Any other words have their plain meaning.
 
     2. No committee member may delegate his/her voting right in absentia.
 
-    3. The quorum of a committee meeting is** 5 distinct voting members** of the committee. 
+    3. The quorum of a committee meeting is **5 distinct voting members** of the committee. 
 
     4. If a quorum is not present then the **executive has general decisive power**.
 
-3. **_Minutes _**
+3. **_Minutes_**
 
     Minutes of all meetings must be kept and they must include:
 
@@ -188,7 +188,7 @@ Any other words have their plain meaning.
 
     A member of the committee ceases holding their office if:
 
-    1. The President or Vice-President receives a** written notice of resignation** from that member **or**
+    1. The President or Vice-President receives a **written notice of resignation** from that member **or**
 
     2. The member is absent, without leave of absence being granted by resolution of the committee, for **3 consecutive meetings** of the committee of which the member was notified **or**
 
@@ -200,7 +200,7 @@ Any other words have their plain meaning.
 
     When an office becomes vacant a GM must called to fill the position within **6 weeks unless**
 
-    5.  The** AGM is to be held within 8 weeks** of the position becoming vacant **or**
+    5.  The **AGM is to be held within 8 weeks** of the position becoming vacant **or**
 
     6.  There is no academic day within the next 6 weeks. In this instance the GM is to be held within 2 weeks of the next academic day.
 
@@ -228,7 +228,7 @@ Any other words have their plain meaning.
 
 4. **_Acting Presidencies_**
 
-    In the event the President is unable to fulfill their duties, the executive has the **power to promote**, in the order of precedence set out in clause 7.1., a member of the executive to** acting President** subject to ratification at GM.
+    In the event the President is unable to fulfill their duties, the executive has the **power to promote**, in the order of precedence set out in clause 7.1., a member of the executive to **acting President** subject to ratification at GM.
 
 5. **_Working Groups_**
 
@@ -248,11 +248,11 @@ Any other words have their plain meaning.
 
 2. **_Duties_**
 
-The Vice-President is the deputy chairperson of the committee and the executive. 
+    The Vice-President is the deputy chairperson of the committee and the executive. 
 
 # 14. The Secretary
 
-1. The Secretary is **elected **by the members of the Club at **each AGM.**
+1. The Secretary is **elected** by the members of the Club at **each AGM.**
 
 2. **_Duties_**
 
@@ -260,7 +260,7 @@ The Vice-President is the deputy chairperson of the committee and the executive.
 
 # 15. The Treasurer
 
-1. The Treasurer is **elected** by the members of the Club at** each AGM.**
+1. The Treasurer is **elected** by the members of the Club at **each AGM.**
 
 2. **_Duties_**
 
@@ -272,7 +272,7 @@ The Vice-President is the deputy chairperson of the committee and the executive.
 
 # 16. The General Committee
 
-1. The General Committee members are **elected* *by the members of the Club at** each AGM.**
+1. The General Committee members are **elected** by the members of the Club at **each AGM.**
 
 2. **_Duties_**
 
@@ -280,11 +280,11 @@ The Vice-President is the deputy chairperson of the committee and the executive.
 
 # 17. The First Year Representative
 
-1. The First Year Representative is **elected** by the members of the Club during a GM during the first half of the first semester of the year**.**
+1. The First Year Representative is **elected** by the members of the Club during a GM during the first half of the first semester of the year.
 
 2. **_Duties_**
 
-    The First Year Representative is responsible for ensuring that members of the club in their** first year at university are represented**. This may include any concerns or ideas that they believe should be known by the committee to better meet the goals of the club in regards to first year members. In addition to this, they are responsible for **assisting the executive in** running the club.
+    The First Year Representative is responsible for ensuring that members of the club in their **first year at university are represented**. This may include any concerns or ideas that they believe should be known by the committee to better meet the goals of the club in regards to first year members. In addition to this, they are responsible for **assisting the executive in** running the club.
 
 # 18. The Club Finances
 
@@ -294,7 +294,7 @@ The Vice-President is the deputy chairperson of the committee and the executive.
 
 2. **_Authority to access funds_**
 
-    The** Treasurer and President** are the "two-to-sign" meaning only they may access the club fund’s, with the **approval of the other**.
+    The **Treasurer and President** are the "two-to-sign" meaning only they may access the club fund’s, with the **approval of the other**.
 
 3. **_Signatories_**
 
