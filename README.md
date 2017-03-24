@@ -16,7 +16,7 @@ The assets and income of the organisation shall be applied solely in furtherance
 
 1. The legal and formal name of the club is the "**_Computer Science Club_**".
 
-2. For the purposes of publicity, publication, or other purposes as approved by the President, the name of the club may be written as "**_CS Club_**".
+2. For the purposes of publicity, publication, or other purposes as approved by the President or his delegate, the name of the club may be written as a syntactically valid source code statement or equivalent for any self-hosting computer programming language which calls a zero-parameter callable unit named "club" contained or referenced within a first-class object named "cs", discarding any returned value. These names need not be capitalised as described.
 
 # 3. Dictionary
 
