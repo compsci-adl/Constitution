@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{schedule}[2023/10/20 v1.0.0 Document class for typesetting The University of Adelaide University Computer Science Club schedules]
+\ProvidesClass{schedule}[2023/10/20 v1.0.0 Document class for typesetting The University of Adelaide Computer Science Club schedules]
 
 \LoadClass{article}
 
