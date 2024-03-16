@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{constitution}[2023/10/20 v1.0.0 Document class for typesetting The University of Adelaide Computer Science Club constitution]
+\ProvidesClass{constitution}[2024/03/16 v1.1.0 Document class for typesetting The University of Adelaide Computer Science Club constitution]
 
 \LoadClass{article}
 
@@ -9,8 +9,10 @@
 \RequirePackage[a4paper, margin=1.5in]{geometry}
 
 \RequirePackage[shortlabels]{enumitem}
-\RequirePackage[hidelinks]{hyperref}
 \RequirePackage{parskip}
+
+\RequirePackage[hidelinks]{hyperref}
+\RequirePackage[nameinlink]{cleveref}
 
 \raggedright
 
