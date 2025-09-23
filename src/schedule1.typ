@@ -152,7 +152,7 @@ Positions are defined @composition, in order of precedence.
 
   + up to four Events Officers;
 
-  + up to two Social Media & Marketing Officers;
+  + up to four Social Media & Marketing Officers;
 
   + up to two Design Officers;
 
