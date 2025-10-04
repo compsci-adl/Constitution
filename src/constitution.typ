@@ -1,16 +1,16 @@
 #let adopted-date = datetime(
-  year: 2025,
-  month: 3,
-  day: 19,
+  year: 2024,
+  month: 10,
+  day: 15,
 )
 
 #let endorsement = (
   "from": "Yaman Ashqar",
   "position": "President",
   "date": datetime(
-    year: 2025,
-    month: 3,
-    day: 19,
+    year: 2024,
+    month: 10,
+    day: 20,
   ),
 )
 
@@ -318,24 +318,6 @@ The Committee must meet at least once a month during the academic year. The Comm
 
 + Eligibility to hold Executive positions is outlined in @executive-body.eligibility.
 
-== Conflicts of interest
-
-+ Every member of the committee shall endeavour to avoid any actions that may arise in a conflict of interest, or directly compete with the Club.
-
-+ Furthermore, an Executive of the Club must not be directly affiliated as a current council or board member of YouX or the Student Representative Council (SRC).
-
-+ Club Executives must be willing to disclose any club committees that they are involved in, regardless of their position or authority.
-
-+ Any member of the Executive to be found in breach of these rules will cease to be an Executive of the Club with immediate effect until the matter is resolved.
-
-== Confidentiality
-
-+ A member of the Committee must not disclose any Confidential Information during their time in the Committee, as well as afterwards.
-
-+ Confidential Information includes, but is not limited to, any sponsorships information, and communications (both physical and electronic) that is conducted on behalf of the Club.
-
-+ Any misuse of Confidential Information will result in the immediate suspension of Club duties and is subject to proceedings under Section 5.8(a).
-
 = Special Resolutions of the Committee
 
 == Definition
@@ -455,13 +437,11 @@ In the event the President is unable to fulfil their duties, the Executive has t
 
 == Eligibility to hold positions <executive-body.eligibility>
 
-+ Those serving in an Executive office must have previously served in another position on the Committee for at least five months prior to a General Meeting. An ordinary member of the Club may only hold this office where no other valid nomination has been received.
++ Those serving in an Executive office must have previously served in another position on the Committee for at least five months prior to the Annual General Meeting. An ordinary member of the Club may only hold this office where no other valid nomination has been received.
 
 + All members of the Executive must be current students of the University of Adelaide and must be studying a computer science, software engineering, or information technology-related degree at the time of their appointment and through the entirety of their term of office.
 
 + Should no valid nominations be received that satisfy the aforementioned requirements, the requirements may be made less strict at the discretion of the Committee, with the exception of the President and Treasurer who must fulfil the requirement of being a current student of the University of Adelaide.
-
-+ The nominee must also abide by Section 5.10 and the exemption in Section 9.5(c) does not apply.
 
 == Working groups
 
