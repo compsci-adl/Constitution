@@ -473,7 +473,7 @@ All members of the Committee have a responsibility to:
       [First-Year Representative],[1],
       [Advisor to the Executive], [1],
       table.hline(stroke: 0.7pt),
-      [*Total*], [*26*],
+      [*Total*], [*28*],
     )
   ]
 )
