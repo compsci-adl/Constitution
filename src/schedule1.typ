@@ -1,7 +1,7 @@
 #let adopted-date = datetime(
-  year: 2024,
-  month: 10,
-  day: 20,
+  year: 2025,
+  month: 3,
+  day: 19,
 )
 
 #set document(
@@ -152,7 +152,7 @@ Positions are defined @composition, in order of precedence.
 
   + up to four Events Officers;
 
-  + up to two Social Media & Marketing Officers;
+  + up to four Social Media & Marketing Officers;
 
   + up to two Design Officers;
 
@@ -466,7 +466,7 @@ All members of the Committee have a responsibility to:
       [Open Source Officer],[2],
       [Partnerships & Sponsorships Officer],[2],
       [Events Officer],[4],
-      [Social Media & Marketing Officer],[2],
+      [Social Media & Marketing Officer],[4],
       [Design Officer],[2],
       [Human Resources Officer],[1],
       [Postgraduate Representative],[1],
