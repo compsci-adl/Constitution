@@ -1,12 +1,12 @@
 #let adopted-date = datetime(
   year: 2025,
-  month: 3,
-  day: 19,
+  month: 10,
+  day: 21,
 )
 
 #set document(
   title: "Schedule 1 to the CS Club Constitution",
-  author: "The University of Adelaide Computer Science Club",
+  author: "Adelaide University Computer Science Club",
 )
 
 #set page(
@@ -73,7 +73,7 @@
     #set par(leading: 1.15em)
     #text(size: 32pt)[*SCHEDULE 1 \ TO THE CONSTITUTION*] \
     #text(size: 20pt)[#line(length: 80%)] \
-    #text(size: 22pt)[*THE UNIVERSITY OF ADELAIDE COMPUTER SCIENCE CLUB*]
+    #text(size: 22pt)[*ADELAIDE UNIVERSITY COMPUTER SCIENCE CLUB*]
     #v(3fr)
     #text(size: 20pt)[#smallcaps([*Committee Composition*])]
   ]
@@ -463,9 +463,9 @@ All members of the Committee have a responsibility to:
       [Social Media & Marketing Manager],[1],
       [Design Manager],[1],
       [Duck Lounge Liaison],[1],
-      [Open Source Officer],[2],
+      [Open Source Officer],[3],
       [Partnerships & Sponsorships Officer],[2],
-      [Events Officer],[4],
+      [Events Officer],[5],
       [Social Media & Marketing Officer],[4],
       [Design Officer],[2],
       [Human Resources Officer],[1],

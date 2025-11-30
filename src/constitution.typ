@@ -1,22 +1,22 @@
 #let adopted-date = datetime(
   year: 2025,
-  month: 3,
-  day: 19,
+  month: 10,
+  day: 21,
 )
 
 #let endorsement = (
-  "from": "Yaman Ashqar",
+  "from": "Yuhan Wang",
   "position": "President",
   "date": datetime(
     year: 2025,
-    month: 3,
-    day: 19,
+    month: 11,
+    day: 30,
   ),
 )
 
 #set document(
   title: "CS Club Constitution",
-  author: "The University of Adelaide Computer Science Club",
+  author: "Adelaide University Computer Science Club",
 )
 
 #set page(
@@ -77,7 +77,7 @@
     #set par(leading: 1.15em)
     #text(size: 32pt)[*THE CONSTITUTION*] \
     #text(size: 20pt)[#line(length: 80%)] \
-    #text(size: 22pt)[*THE UNIVERSITY OF ADELAIDE COMPUTER SCIENCE CLUB*]
+    #text(size: 22pt)[*ADELAIDE UNIVERSITY COMPUTER SCIENCE CLUB*]
   ]
 )
 
@@ -108,7 +108,7 @@
 
 == Primary objectives
 
-The primary objective of the Club is to provide collaboration, networking, intellectual stimulation, and social opportunities, as well as any other pursuit reasonably suited for students studying computer science at the University of Adelaide and other interested people.
+The primary objective of the Club is to provide collaboration, networking, intellectual stimulation, and social opportunities, as well as any other pursuit reasonably suited for students studying computer science at Adelaide University and other interested people.
 
 == Not for profit clause
 
@@ -120,7 +120,7 @@ All rules, regulations, requirements and steps outlined by the YouX and the Club
 
 = Name
 
-+ The legal and formal name of the club is *The University of Adelaide Computer Science Club*.
++ The legal and formal name of the club is *Adelaide University Computer Science Club*.
 
 + For the purposes of publicity, publication, or other purposes as approved by the President or their delegate, the name of the Club may be written as "CS Club". It may also be written as a syntactically valid source code statement or equivalent for any self-hosting computer programming language which calls a zero-parameter callable unit named "club" contained or referenced within a first-class object named "cs", discarding any returned value. These names need not be capitalised as described.
 
@@ -130,11 +130,11 @@ Unless a contrary intention is evident, the following definitions apply to this 
 
 #set terms(indent: 1em)
 
-/ _Academic day_: means a weekday defined by the University of Adelaide to be within a semester;
+/ _Academic day_: means a weekday defined by Adelaide University to be within a semester;
 
 / _AGM_: means an Annual General Meeting of the Club;
 
-/ _Club_: means The University of Adelaide Computer Science Club;
+/ _Club_: means Adelaide University Computer Science Club;
 
 / _Committee_: means the Committee of the Club;
 
@@ -150,7 +150,7 @@ Unless a contrary intention is evident, the following definitions apply to this 
 
 / _SGM_: means a Special General Meeting of the Club;
 
-/ _University_: means the University of Adelaide;
+/ _University_: means Adelaide University;
 
 / _YouX_: means the student union of the University.
 
@@ -158,7 +158,7 @@ Unless a contrary intention is evident, the following definitions apply to this 
 
 == General membership <membership.general>
 
-General membership in the Club is open to any current undergraduate or postgraduate student at the University of Adelaide who:
+General membership in the Club is open to anyone who:
 
 + pays the membership fee as determined under @membership.fee; and
 
@@ -166,15 +166,9 @@ General membership in the Club is open to any current undergraduate or postgradu
 
   + full name; and
 
-  + student ID number; and
+  + preferred email address; and
 
-  + preferred email address.
-
-== Associate membership
-
-+ Associate membership in the Club is open to any person not a student of the University of Adelaide, only if the applicant may satisfy any possible reasonable objections the Committee may raise.
-
-+ Associate members must also satisfy the criteria under @membership.general.
+  + if student at Adelaide University, an ID number.
 
 == Honorary membership <membership.honorary>
 
@@ -187,6 +181,8 @@ Honorary membership in the Club is open to any person upon whom the Club has con
   + the applicant or member has proven detrimental to the interests of the Club; or
 
   + violates the Code of Conduct of the University of Adelaide; or
+
+  + violates the Code of Conduct of the Club; or
 
   + is otherwise causing serious issues within the Club for its members and/or Committee.
 
@@ -455,11 +451,11 @@ In the event the President is unable to fulfil their duties, the Executive has t
 
 == Eligibility to hold positions <executive-body.eligibility>
 
-+ Those serving in an Executive office must have previously served in another position on the Committee for at least five months prior to a General Meeting. An ordinary member of the Club may only hold this office where no other valid nomination has been received.
++ Those serving in an Executive office must have previously served in another position on the Committee for at least five months. An ordinary member of the Club may only hold this office where no other valid nomination has been received.
 
-+ All members of the Executive must be current students of the University of Adelaide and must be studying a computer science, software engineering, or information technology-related degree at the time of their appointment and through the entirety of their term of office.
++ All members of the Executive must be current students of Adelaide University and must be studying a computer science, software engineering, or information technology related degree at the time of their appointment and through the entirety of their term of office.
 
-+ Should no valid nominations be received that satisfy the aforementioned requirements, the requirements may be made less strict at the discretion of the Committee, with the exception of the President and Treasurer who must fulfil the requirement of being a current student of the University of Adelaide.
++ Should no valid nominations be received that satisfy the aforementioned requirements, the requirements may be made less strict at the discretion of the Committee, with the exception of the President and Treasurer who must fulfil the requirement of being a current student of the Adelaide University.
 
 + The nominee must also abide by Section 5.10 and the exemption in Section 9.5(c) does not apply.
 
@@ -491,7 +487,11 @@ The Vice-President is responsible for:
 
 + assisting the President in the overall management of the Club; and
 
-+ acting as President in the absence of the President.
++ acting as President in the absence of the President; and 
+
++ ensuring managers are completing their duties; and
+
++  outsourcing and managing volunteers and their duties if required.
 
 === The Treasurer
 
@@ -625,7 +625,7 @@ This Constitution takes effect when it is ratified by Club members in a GM.
 
 == Amendments
 
-+ Amendments to this Constitution may be proposed by a resolution of the Committee or a petition from at least 10 members of the Club. Any amendments to this Constitution must be ratified by Club members in a GM in order for the amendment to take effect.
++ Amendments to this Constitution may be proposed by a resolution of the Committee or a petition from at least 50 members of the Club. Any amendments to this Constitution must be ratified by Club members in a GM in order for the amendment to take effect.
 
 + Minor typographical and formatting changes may be made to this Constitution without the need for ratification by Club members in a GM.
 
